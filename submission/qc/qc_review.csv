@@ -1,0 +1,8 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,tung,Cac doi tuong da gan on dinh tren anh duyet
+img_006.jpg,,khong,tung,Du box va dung lop theo guideline
+img_010.jpg,#115,thua,tung,Box #115 bicycle (conf 0.50 da tick can_review) bat nham phan duoi khung xe dap cua xich lo #114 three_wheeler -> can xoa han
+img_014.jpg,,khong,tung,On dinh sau duyet
+img_017.jpg,,khong,tung,Box three_wheeler va phuong tien xung quanh dung quy tac
+img_022.jpg,#253,thua,tung,Box #253 person (conf 0.35 da tick can_review) o ria trai anh cho dem qua mo khong xac nhan duoc bang mat nguoi -> can xoa han
+img_034.jpg,,khong,tung,Da kiem cac doi tuong chinh (ghi chu: box #434 motorbike xa cao 17.4px < 20px se loc bo khi rework)
