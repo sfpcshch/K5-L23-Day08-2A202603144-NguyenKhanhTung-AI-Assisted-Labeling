@@ -1,1 +1,5 @@
 run_id,part,model,params,split,n_boxes,sec_per_img,what_went_right,what_went_wrong,decision
+r02,Part2,yolo26-m,--model yolo26 --size m --split pilot --conf 0.25 --out work/prelabel/t_y26,pilot,215,0.32,,,
+r03,Part2,yolo26-m,--model yolo26 --size m --split pilot --conf 0.5 --out work/prelabel/t_y26_c05,pilot,140,0.22,,,
+r04,Part2,yoloe-s,--model yoloe --classes three_wheeler --split pilot --conf 0.25 --out work/prelabel/t_yoloe,pilot,8,0.13,,,
+r05,Part2,yolo26-m+sam(sam2.1_b.pt),"--model yolo26 --size m --classes person,motorbike,car --images img_004.jpg img_013.jpg --conf 0.3 --segmenter sam --sam sam2.1_b.pt --out work/prelabel/t_sam",custom,16,1.25,,,
