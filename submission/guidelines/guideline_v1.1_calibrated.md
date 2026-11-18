@@ -1,4 +1,4 @@
-# Label contract — Phố châu Á — BỔ SUNG v1.1 — <<MSHV - Họ tên>>
+# Label contract — Phố châu Á — BỔ SUNG v1.1 — 2A202603144 - Nguyễn Khánh Tùng
 
 > **Chỉ viết phần thay đổi so với v1.0** (không copy cả file). Chốt các câu hỏi mở ở mục 6 của v1.0 (hoặc nói rõ câu nào chưa chốt, vì sao)
 > và thêm quy tắc mới rút ra từ lỗi của máy / lỗi của bạn. Mỗi ca khó **có ảnh ví dụ** (`img_0xx`) và khớp một dòng trong `qc/calibration_decisions.csv`.
